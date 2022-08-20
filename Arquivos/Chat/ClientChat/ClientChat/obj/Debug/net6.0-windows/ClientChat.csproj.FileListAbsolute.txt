@@ -1,0 +1,17 @@
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\bin\Debug\net6.0-windows\ClientChat.exe
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\bin\Debug\net6.0-windows\ClientChat.deps.json
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\bin\Debug\net6.0-windows\ClientChat.runtimeconfig.json
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\bin\Debug\net6.0-windows\ClientChat.dll
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\bin\Debug\net6.0-windows\ClientChat.pdb
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ClientChat.csproj.AssemblyReference.cache
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ClientChat.Form1.resources
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ClientChat.csproj.GenerateResource.cache
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ClientChat.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ClientChat.AssemblyInfoInputs.cache
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ClientChat.AssemblyInfo.cs
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ClientChat.csproj.CoreCompileInputs.cache
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ClientChat.dll
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\refint\ClientChat.dll
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ClientChat.pdb
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ClientChat.genruntimeconfig.cache
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\Chat\ClientChat\ClientChat\obj\Debug\net6.0-windows\ref\ClientChat.dll

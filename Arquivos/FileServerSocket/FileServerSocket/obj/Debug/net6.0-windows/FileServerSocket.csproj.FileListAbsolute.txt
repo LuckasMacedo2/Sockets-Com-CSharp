@@ -1,0 +1,17 @@
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\bin\Debug\net6.0-windows\FileServerSocket.exe
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\bin\Debug\net6.0-windows\FileServerSocket.deps.json
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\bin\Debug\net6.0-windows\FileServerSocket.runtimeconfig.json
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\bin\Debug\net6.0-windows\FileServerSocket.dll
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\bin\Debug\net6.0-windows\FileServerSocket.pdb
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\FileServerSocket.csproj.AssemblyReference.cache
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\FileServerSocket.Form1.resources
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\FileServerSocket.csproj.GenerateResource.cache
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\FileServerSocket.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\FileServerSocket.AssemblyInfoInputs.cache
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\FileServerSocket.AssemblyInfo.cs
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\FileServerSocket.csproj.CoreCompileInputs.cache
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\FileServerSocket.dll
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\refint\FileServerSocket.dll
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\FileServerSocket.pdb
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\FileServerSocket.genruntimeconfig.cache
+F:\Projects\Projetos - Estudo\Sockets-Com-CSharp\Arquivos\FileServerSocket\FileServerSocket\obj\Debug\net6.0-windows\ref\FileServerSocket.dll
